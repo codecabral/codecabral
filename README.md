@@ -1,4 +1,4 @@
-##👋Olá meu apelido é Portugal e eu estou no 3ºano do ensino médio
+## 👋Olá meu apelido é Portugal e eu estou no 3ºano do ensino médio
 
 <div align="center">
   <a href="https://github.com/JVtristaoAC">
