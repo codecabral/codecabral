@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: JVtristaoAC
           svg_out_path: dist/github-contribution-grid-snake.svg
-          color_snake: "0d0d0d"
+          color_snake: "#0d0d0d"
     
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
