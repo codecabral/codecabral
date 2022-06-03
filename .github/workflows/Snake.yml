@@ -18,6 +18,7 @@ jobs:
           github_user_name: JVtristaoAC
           svg_out_path: dist/github-contribution-grid-snake.svg
           description: |
+           - palette: github
            - color_snake: "#0d0d0d"
     
 
