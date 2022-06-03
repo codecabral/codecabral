@@ -19,7 +19,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
           description: |
            - palette: github
-           - color_snake: "0d0d0d"
+           - color_snake: "black"
     
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
