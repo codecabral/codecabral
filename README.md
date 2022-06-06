@@ -1,4 +1,4 @@
-bgcolor=”#800000"
+
 ## Olá meu apelido é Portugal, e eu estou no 3ºano do ensino médio
 
 <div align="center">
