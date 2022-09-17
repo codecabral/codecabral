@@ -6,9 +6,9 @@
 
 
   <a href="https://github.com/JVtristaoAC">
-  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=JVtristaoAC&theme=midnight-purple"/> <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JVtristaoAC&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=7&theme=midnight-purple&bg_color=#071a16"/>
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=JVtristaoAC&theme=tokyonight"/> <br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JVtristaoAC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
    
   
