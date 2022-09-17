@@ -1,7 +1,10 @@
-
-## Olá meu apelido é Portugal, e eu estou no 3ºano do ensino médio
-
 <div align="center">
+<img HorizontalOptions="center" alt="Portugal" height="300em"  src="https://user-images.githubusercontent.com/72676389/190834279-ab35755e-39ae-47fa-8b6c-75c2b0ae6b71.gif" >
+
+
+## 
+
+
   <a href="https://github.com/JVtristaoAC">
   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=JVtristaoAC&theme=midnight-purple"/> <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JVtristaoAC&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
