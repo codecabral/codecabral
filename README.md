@@ -27,6 +27,7 @@
 ## 
   
   ![Snake animation](https://github.com/JVtristaoAC/JVtristaoAC/blob/output/github-contribution-grid-snake.svg)
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JVtristaoAC.JVtristaoAC)
 
 ## Encontre-me em:
 
