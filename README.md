@@ -1,13 +1,15 @@
 <div align="center">
-<img HorizontalOptions="center" alt="Portugal" height="300em"  src="https://user-images.githubusercontent.com/72676389/190834279-ab35755e-39ae-47fa-8b6c-75c2b0ae6b71.gif" >
+<img HorizontalOptions="center" alt="Portugal" height="300em"  src="https://user-images.githubusercontent.com/72676389/192665762-5a9737a5-a481-4219-9a82-8953ced3667b.gif" >
+
+
 
 
 ## 
 
 
   <a href="https://github.com/JVtristaoAC">
-  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=JVtristaoAC&theme=tokyonight"/> <br>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JVtristaoAC&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=JVtristaoAC&theme=radical"/> <br>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JVtristaoAC&show_icons=true&locale=en&layout=compact&theme=radical"/>
 </div>
    
   
