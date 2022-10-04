@@ -9,8 +9,8 @@
 
   <a href="https://github.com/JVtristaoAC">
   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=JVtristaoAC&theme=radical"/> <br>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JVtristaoAC&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10"/>
-</div>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&&theme=radical" />
+
    
   
   <div style="display: inline_block"><br>
