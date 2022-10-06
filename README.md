@@ -3,8 +3,8 @@
 <div align='center'>
 
   <a href="https://github.com/JVtristaoAC">
-  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=JVtristaoAC&theme=radical"/> <br>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&&theme=radical" />
+  <img height="200em" src=https://github-readme-streak-stats.herokuapp.com?user=jvtristaoac&theme=react&border_radius=10&"/> <br>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&theme=react&border_radius=10" />
 
 </div>
 
