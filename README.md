@@ -40,8 +40,12 @@
   </a>
   
 </p>
+
 <center>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJVtristaoAC">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJVtristaoAC&label=Visitantes&labelColor=%23697689&countColor=%2361dafb" />
+
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJVtristaoAC&label=Visitantes&labelColor=%23697689&countColor=%2361dafb"/>
+
 </a>
+
 </center>
