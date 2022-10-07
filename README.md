@@ -31,7 +31,7 @@
 
 ## Onde me encontrar 
 <p align="center">
-  <a href="https://linkedin.com/jvtristaoac">
+  <a href="https://www.linkedin.com/in/jvtristaoac">
     <img <img src="https://skillicons.dev/icons?i=github,linkedin,instagram&perline=3" />
   </a>
   
