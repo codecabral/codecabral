@@ -17,9 +17,7 @@
 ## Linguagens de programação 
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet&perline=4" />
-  </a>
 </p>
 
 ## IDEs
@@ -31,9 +29,16 @@
 
 ## Onde me encontrar 
 <p align="center">
+  <a href="https://www.github.com/jvtristaoac">
+    <img <img src="https://skillicons.dev/icons?i=github&perline=1" />
+  </a>
+  <a href="https://www.instagram.com/jvtristaoac/">
+    <img <img src="https://skillicons.dev/icons?i=instagram&perline=1" />
+  </a>
   <a href="https://www.linkedin.com/in/jvtristaoac">
-    <img <img src="https://skillicons.dev/icons?i=github,linkedin,instagram&perline=3" />
+    <img <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
   </a>
   
-  
 </p>
+
+ // <a href="https://skillicons.dev">
