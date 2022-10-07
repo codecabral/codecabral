@@ -4,7 +4,7 @@
 
   <a href="https://github.com/JVtristaoAC">
   <img height="200em" src=https://github-readme-streak-stats.herokuapp.com?user=jvtristaoac&theme=react&border_radius=10&"/> <br>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&theme=react&border_radius=10" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&theme=react&border_radius=10&card_width=500" />
 
 </div>
 
