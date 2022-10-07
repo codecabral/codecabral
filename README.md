@@ -12,7 +12,7 @@
   
   ![Snake animation](https://github.com/JVtristaoAC/JVtristaoAC/blob/output/github-contribution-grid-snake.svg)
   <br>
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JVtristaoAC.JVtristaoAC)
+
 
 ## Linguagens de programação 
 
@@ -41,4 +41,4 @@
   
 </p>
 
- <a href="https://skillicons.dev">
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJVtristaoAC&label=Visitantes&labelColor=%23697689&countColor=%2361dafb)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJVtristaoAC)
