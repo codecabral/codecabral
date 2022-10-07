@@ -1,5 +1,5 @@
 
-## My Activity
+## Minha atividade
 <div align='center'>
 
   <a href="https://github.com/JVtristaoAC">
@@ -14,7 +14,7 @@
   <br>
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JVtristaoAC.JVtristaoAC)
 
-## Programming Languages 
+## Linguagens de programação 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,9 +29,11 @@
 </p>
 
 
-## Where to find me
+## Onde me encontrar 
 <p align="center">
   <a href="https://linkedin.com/jvtristaoac">
     <img <img src="https://skillicons.dev/icons?i=github,linkedin,instagram&perline=3" />
   </a>
+  
+  
 </p>
