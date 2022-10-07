@@ -41,4 +41,4 @@
   
 </p>
 
- // <a href="https://skillicons.dev">
+ <a href="https://skillicons.dev">
