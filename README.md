@@ -1,4 +1,5 @@
 
+
 ## Minha atividade
 <div align='center'>
 
@@ -44,9 +45,18 @@
     <img <img src="https://skillicons.dev/icons?i=instagram&perline=1" />
   </a>
   <a href="https://www.linkedin.com/in/jvtristaoac">
-    <img <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
   </a>
   
+   
+  <a href="https://www.youtube.com/channel/UCOlnU4zYS2b-vlrBcink4Lg">
+    <img id="youtube" src="https://user-images.githubusercontent.com/72676389/195736181-a4bcc843-27e4-494b-9206-77ad89d34058.png" height="49">
+  </a>
+ 
+
+
+
+
 </p>
 
 
