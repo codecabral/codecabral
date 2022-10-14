@@ -36,7 +36,7 @@
 </p>
 
 
-## Where Find me
+## Where find me
 <p align="center">
   <a href="https://www.github.com/jvtristaoac">
     <img <img src="https://skillicons.dev/icons?i=github&perline=1" />
