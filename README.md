@@ -19,11 +19,11 @@
   <br>
  <p align='end'>
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJVtristaoAC">
-   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJVtristaoAC&label=Visitantes&labelColor=%23697689&countColor=%2361dafb"/>
+   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJVtristaoAC&label=Visitors&labelColor=%23697689&countColor=%2361dafb"/>
   </a>
 </p>
 
-## Linguagens de programação 
+## Programming languages
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet&perline=4" />
@@ -36,7 +36,7 @@
 </p>
 
 
-## Onde me encontrar 
+## Where Find me
 <p align="center">
   <a href="https://www.github.com/jvtristaoac">
     <img <img src="https://skillicons.dev/icons?i=github&perline=1" />
