@@ -32,7 +32,14 @@
 ## IDEs
 
 <p align='center'>
-    <img src="https://skillicons.dev/icons?i=mysql,ps,pr,selenium,visualstudio,vscode&perline=3" />
+    <img src="https://skillicons.dev/icons?i=mysql"/>
+    <img src="https://skillicons.dev/icons?i=ps"/>
+    <img src="https://skillicons.dev/icons?i=selenium"/> <br>
+    <img src="https://skillicons.dev/icons?i=visualstudio"/>
+    <img src="https://skillicons.dev/icons?i=vscode"/>
+    <img src="https://user-images.githubusercontent.com/72676389/196057854-b170986d-4272-4a74-a993-055758cc6db5.png" height="48" />
+
+
 </p>
 
 
@@ -50,7 +57,7 @@
   
    
   <a href="https://www.youtube.com/channel/UCOlnU4zYS2b-vlrBcink4Lg">
-    <img id="youtube" src="https://user-images.githubusercontent.com/72676389/195736774-1585a30f-a47b-43b7-820c-eb851582bd0a.png" height="49">
+    <img id="youtube" src="https://user-images.githubusercontent.com/72676389/195736774-1585a30f-a47b-43b7-820c-eb851582bd0a.png" height="48">
   </a>
  
 
