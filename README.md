@@ -32,12 +32,19 @@
 ## IDEs
 
 <p align='center'>
-    <img src="https://skillicons.dev/icons?i=mysql"/>
-    <img src="https://skillicons.dev/icons?i=ps"/>
-    <img src="https://skillicons.dev/icons?i=selenium"/> <br>
-    <img src="https://skillicons.dev/icons?i=visualstudio"/>
-    <img src="https://skillicons.dev/icons?i=vscode"/>
-    <img src="https://user-images.githubusercontent.com/72676389/196057854-b170986d-4272-4a74-a993-055758cc6db5.png" height="48" />
+  <a href="https://dev.mysql.com/downloads/">
+    <img src="https://skillicons.dev/icons?i=mysql"/></a>
+    <a href="https://filecr.com/windows/adobe-photoshop-2022-0035/">
+    <img src="https://skillicons.dev/icons?i=ps"/></a>
+    <a href="https://www.selenium.dev">
+    <img src="https://skillicons.dev/icons?i=selenium"/></a>
+     <br>
+    <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
+    <img src="https://skillicons.dev/icons?i=visualstudio"/></a>
+    <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
+    <img src="https://skillicons.dev/icons?i=vscode"/></a>
+    <a href="https://gamemaker.io/en/gamemaker">
+    <img src="https://user-images.githubusercontent.com/72676389/196057854-b170986d-4272-4a74-a993-055758cc6db5.png" height="48" /></a>
 
 
 </p>
