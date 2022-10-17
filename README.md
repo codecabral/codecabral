@@ -54,7 +54,11 @@
   <a href="https://www.linkedin.com/in/jvtristaoac">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
 
-
+ 
+  <a href="https://www.youtube.com/channel/UCOlnU4zYS2b-vlrBcink4Lg">
+    <img id="youtube" src="https://user-images.githubusercontent.com/72676389/195736774-1585a30f-a47b-43b7-820c-eb851582bd0a.png" height="48">
+  </a>
+ 
 </p>
 
 
