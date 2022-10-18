@@ -1,5 +1,4 @@
-## About me
-...
+
 ## My Activity
 <div align='center'>
 
@@ -69,4 +68,5 @@
 </p>
 
 
-
+## About me
+...
