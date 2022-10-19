@@ -1,4 +1,4 @@
-![](https://pokemon.farlow.dev/game) 
+![](https://pokemon.JVtristaoAC.dev/game) 
 
    
 
