@@ -1,8 +1,8 @@
 # About me
-
-### - Program is a art ❤
-### - I like games, musics and all stuffs relatable with tecnology 👨‍💻
-### - Yes, i am a nerd with proud 🤓
+### - I am 17y and i am living in Brazil 
+### - Program is an art 🎨
+### - I like games, musics and all stuffs relatable with technology 👨‍💻
+### - Yes, i am a nerd, and with proud 🤓
 
 ## Here you can play a Pokemon game, just calm down and wait the page refresh 🍷🗿 
 
