@@ -1,9 +1,9 @@
 # About me
-### - I am 17y and i am living in Brazil 
+### - I am 17y and i am living in Brazil 😁
 ### - Program is an art 🎨
 ### - I like games, musics and all stuffs relatable with technology 👨‍💻
-### - Yes, i am a nerd, and with proud 🤓
-
+### - Wanna know what i am hearing?
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=61pr4gb1ittg11qkxsdxc72lc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 ## Here you can play a Pokemon game, just calm down and wait the page refresh 🍷🗿 
 
 
