@@ -6,6 +6,7 @@
 
 ## Here you can play a Pokemon game, just calm down and wait the page refresh 🍷🗿 
 
+
 <div align="center">
 <img src="https://toy.aoaoao.me/image" width="300"/>
 
@@ -57,7 +58,10 @@
    <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/start.png" height="30" />
 </a>
 
- 
+ <br>
+ <br>
+   
+ [Creator](https://github.com/HFO4) 
  
  </div>
  
