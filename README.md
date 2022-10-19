@@ -1,3 +1,11 @@
+# About me
+
+### - Program is a art ❤
+### - I like games, musics and all stuffs relatable with tecnology 👨‍💻
+### - Yes, i am a nerd with proud 🤓
+
+## Here you can play a Pokemon game, just calm down and wait the page refresh 🍷🗿 
+
 <div align="center">
 <img src="https://toy.aoaoao.me/image" width="300"/>
 
@@ -53,7 +61,7 @@
  
  </div>
  
-## My Activity
+# My Activity
 <div align='center'>
 
   <a href="https://github.com/JVtristaoAC">
@@ -76,13 +84,13 @@
   </a>
 </p>
 
-## Programming languages
+# Programming languages
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet&perline=4" />
 </p>
 
-## IDEs
+# IDEs
 
 <p align='center'>
   <a href="https://dev.mysql.com/downloads/">
@@ -102,7 +110,7 @@
 
 </p>
 
-## Where find me
+# Where find me
 
 <p align="center">
   <a href="https://www.github.com/jvtristaoac">
@@ -121,6 +129,3 @@
  
 </p>
 
-
-## About me
-...
