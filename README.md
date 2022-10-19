@@ -5,9 +5,9 @@
                                                                                                
 
  
-| | | | |  [⬆️](https://pokemon.farlow.dev/input/UP)    |                                      | [🅱️](https://pokemon.farlow.dev/input/B)     | [🅰️](https://pokemon.farlow.dev/input/A)      | 
+| | | | |  [⬆️](https://pokemon.JVtristaoAC.dev/input/UP)    |                                      | [🅱️](https://pokemon.JVtristaoAC.dev/input/B)     | [🅰️](https://pokemon.JVtristaoAC.dev/input/A)      | 
 
- | [⬅️](https://pokemon.farlow.dev/input/LEFT) | [⬇️](https://pokemon.farlow.dev/input/DOWN)  | [➡️](https://pokemon.farlow.dev/input/RIGHT) | [⏺️](https://pokemon.farlow.dev/input/START) | [⏏️](https://pokemon.farlow.dev/input/SELECT) | 
+ | [⬅️](https://pokemon.JVtristaoAC.dev/input/LEFT) | [⬇️](https://pokemon.JVtristaoAC.dev/input/DOWN)  | [➡️](https://pokemon.JVtristaoAC.dev/input/RIGHT) | [⏺️](https://pokemon.JVtristaoAC.dev/input/START) | [⏏️](https://pokemon.JVtristaoAC.dev/input/SELECT) | 
 
   
 
