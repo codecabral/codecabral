@@ -89,7 +89,7 @@
   </a>
 </p>
 
-# Programming languages
+# Programming languages / Frameworks
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet&perline=4" />
