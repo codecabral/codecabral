@@ -95,7 +95,7 @@
     <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet&perline=4" />
 </p>
 
-# IDEs
+# IDEs and Programs
 
 <p align='center'>
   <a href="https://dev.mysql.com/downloads/">
