@@ -5,7 +5,7 @@
 ### - If you like this profile, starred and follow me ✨
 ### - Wanna know what i am hearing?
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=61pr4gb1ittg11qkxsdxc72lc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-## Here you can play a Pokemon game, just calm down and wait the page refresh 🍷🗿 
+## While you are here play a Pokemon game, just calm down and wait the page refresh 🍷🗿 
 
 
 <div align="center">
@@ -70,8 +70,11 @@
 <div align='center'>
 
   <a href="https://github.com/JVtristaoAC">
-  <img height="200em" src=https://github-readme-streak-stats.herokuapp.com?user=jvtristaoac&theme=merko&border_radius=10&"/> <br>
+  <img height="200em" src=https://github-readme-streak-stats.herokuapp.com?user=jvtristaoac&theme=merko&border_radius=10&"/> 
+                                                                                                                          <br>
+                                                                                                                     
   <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&theme=merko&border_radius=10&card_width=500" />
+  
   
  ##
  
