@@ -8,7 +8,7 @@
 ## While you are here play a Pokemon game, just calm down and wait the page refresh 🍷🗿 
 
 
-<div align="center">
+<div align="center" >
 <img src="https://toy.aoaoao.me/image" width="300"/>
 
 <br>
@@ -50,7 +50,7 @@
 
 
 <br>
-
+<br>
 <a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/JVtristaoAC">
    <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/select.png" height="30"/>
 </a> 
