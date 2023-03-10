@@ -121,24 +121,4 @@
 
 </p>
 
-# Where find me
-
-<p align="center">
-  <a href="https://www.github.com/jvtristaoac">
-    <img <img src="https://skillicons.dev/icons?i=github&perline=1" />
-  </a>
-  <a href="https://www.instagram.com/jvtristaoac/">
-    <img <img src="https://skillicons.dev/icons?i=instagram&perline=1" />
-  </a>
-  <a href="https://www.linkedin.com/in/jvtristaoac">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" /> </a>
-                                                                
-   <a href="https://www.linkedin.com/in/jvtristaoac">
-    <img src="https://skillicons.dev/icons?i=twitter&perline=1" /> </a>
- 
-  <a href="https://www.youtube.com/channel/UCOlnU4zYS2b-vlrBcink4Lg">
-    <img id="youtube" src="https://user-images.githubusercontent.com/72676389/195736774-1585a30f-a47b-43b7-820c-eb851582bd0a.png" height="48">
-  </a>
- 
-</p>
 
