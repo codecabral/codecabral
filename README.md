@@ -105,7 +105,7 @@
     <img src="https://skillicons.dev/icons?i=selenium"/></a>
     <a href="https://www.postman.com/downloads/">
     <img src="https://skillicons.dev/icons?i=postman"/></a>
-     <a href="">
+     <a href="https://developer.android.com/studio">
     <img src="https://skillicons.dev/icons?i=androidstudio"/></a>
      <br>
     <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
@@ -114,9 +114,9 @@
     <img src="https://skillicons.dev/icons?i=vscode"/></a>                                                    
     <a href="https://gamemaker.io/en/gamemaker">
     <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="48" /></a>
-    <a href="">
+    <a href="https://www.unrealengine.com/pt-BR/download">
     <img src="https://skillicons.dev/icons?i=unreal" height="48" /></a>
-    <a href="">
+    <a href="https://store.unity.com/pt#plans-individual">
     <img src="https://skillicons.dev/icons?i=unity" height="48" /></a>
 
 </p>
