@@ -74,12 +74,12 @@
                                                                                                                      
   <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&theme=merko&border_radius=10&card_width=500" />
   
-  
+  <!-- 
  ##
  
  ![Snake animation](https://github.com/JVtristaoAC/JVtristaoAC/blob/output/github-contribution-grid-snake.svg)
   <br>
-
+-->
 </div>
  <p align='end'>
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJVtristaoAC">
