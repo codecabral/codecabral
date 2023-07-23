@@ -1,7 +1,6 @@
 # About me
 - I am 17y and i am living in Brazil 😁
 - I like games, musics and all stuffs relatable with technology 👨‍💻
-- If you like this profile, starred and follow me ✨
 
 ## Wanna know what i am hearing?
 
