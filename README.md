@@ -10,9 +10,12 @@
 
 ## While you are here play a Pokemon game, just calm down and wait the page refresh 🍷🗿 
 
+
+
  <div align="center">
-   <img src="https://toy.aoaoao.me/image" width="300"/>
-   
+   <img width='20%' src='https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif'/>
+   <img src="https://toy.aoaoao.me/image" width="50%"/>
+   <img width='20%' src='https://pa1.aminoapps.com/6918/9230f450f538d7d6179ee315471e3188ea35040fr1-610-539_hq.gif'/>
    <br>
    
    <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/JVtristaoAC">  
