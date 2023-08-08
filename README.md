@@ -15,7 +15,7 @@
  <div align="center">
    <img width='20%' src='https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif'/>
    <img src="https://toy.aoaoao.me/image" width="50%"/>
-   <img width='20%' src='https://pa1.aminoapps.com/6918/9230f450f538d7d6179ee315471e3188ea35040fr1-610-539_hq.gif'/>
+   <img width='20%' src='https://i.pinimg.com/originals/0f/58/60/0f5860ab2d063aaa92d55a994d9b47e4.gif'/>
    <br>
    
    <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/JVtristaoAC">  
