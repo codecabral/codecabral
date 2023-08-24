@@ -71,7 +71,7 @@
 # My Activity
 <p align='center'>
  
-<img src='https://streak-stats.demolab.com?user=jvtristaoac&theme=merko&hide_border=false&mode=daily&card_width=500' />
+<img src='https://streak-stats.demolab.com?user=jvtristaoac&theme=merko&hide_border=false&mode=weekly&card_width=500' />
                                                                                                                      
   <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&theme=merko&border_radius=10&card_width=500" />
   
