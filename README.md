@@ -120,5 +120,5 @@
 </p>
 
 <a href="https://www.buymeacoffee.com/jvtristaoac"> 
-   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/lato-yellow.png" height="50" width="200" alt="jvtristaoac" />
+   <img align="left" src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/coffee.png" height="50" width="200" alt="jvtristaoac" />
   </a>
