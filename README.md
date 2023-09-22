@@ -118,3 +118,7 @@
      <br>
   <img align="center" src="https://profile-counter.glitch.me/{JVtristaoAC}/count.svg" />
 </p>
+
+<a href="https://www.buymeacoffee.com/jvtristaoac"> 
+   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/lato-yellow.png" height="50" width="200" alt="jvtristaoac" />
+  </a>
