@@ -81,10 +81,10 @@
 
 
 
-# Programming languages / Frameworks
+# Programming languages / Stacks
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet,flutter,dart&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,ts,php,py,java,dotnet,flutter,dart,nodejs,react,vue,next&perline=5" />
 </p>
 
 # IDEs and Programs
