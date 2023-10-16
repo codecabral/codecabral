@@ -84,7 +84,7 @@
 # Programming languages / Stacks
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,js,ts,php,py,java,dotnet,flutter,dart,nodejs,react,vue,next&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,ts,php,py,java,dotnet,flutter,dart,nodejs,react,vue,next,tailwind&perline=8" />
 </p>
 
 # IDEs and Programs
