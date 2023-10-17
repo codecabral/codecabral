@@ -11,9 +11,9 @@
 
 <div align="center">
   
- <img width='23%' src='https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif'/>
+ <img src='https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif' width='23%'/>
  <img src="https://toy.aoaoao.me/image" width="49%"/>
- <img width='23%' src='https://i.pinimg.com/originals/0f/58/60/0f5860ab2d063aaa92d55a994d9b47e4.gif'/>
+ <img src='https://i.pinimg.com/originals/0f/58/60/0f5860ab2d063aaa92d55a994d9b47e4.gif' width='23%'/>
   
  <br>
     
@@ -55,7 +55,7 @@
  </a> 
     
  <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/JVtristaoAC">
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/start.png" height="30" />
+  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/start.png" height="30"/>
  </a>
     
  <br>
@@ -65,14 +65,14 @@
 
 # My Activity
 <p align='center'>
- <img src='https://streak-stats.demolab.com?user=jvtristaoac&theme=merko&hide_border=false&mode=weekly&card_width=500' />                                                                                                               
- <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&theme=merko&border_radius=10&card_width=500" />  
+ <img src='https://streak-stats.demolab.com?user=jvtristaoac&theme=merko&hide_border=false&mode=weekly&card_width=500'/>                                                                                                               
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&theme=merko&border_radius=10&card_width=500" height="200em"/>  
 </p>
 
 # Programming languages / Stacks
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=cs,css,html,js,ts,php,py,java,dotnet,flutter,dart,nodejs,react,vue,next,tailwind,md,sass&perline=6" />
+ <img src="https://skillicons.dev/icons?i=cs,css,html,js,ts,php,py,java,dotnet,flutter,dart,nodejs,react,vue,next,tailwind,md,sass&perline=6"/>
 </p>
 
 # IDEs and Programs
@@ -110,15 +110,15 @@
  </a>      
  
  <a href="https://gamemaker.io/en/gamemaker">
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="48" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="48"/>
  </a>
  
  <a href="https://www.unrealengine.com/pt-BR/download">
-  <img src="https://skillicons.dev/icons?i=unreal" height="48" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="48"/>
  </a>
  
  <a href="https://store.unity.com/pt#plans-individual">
-  <img src="https://skillicons.dev/icons?i=unity" height="48" />
+  <img src="https://skillicons.dev/icons?i=unity" height="48"/>
  </a>
 
 </p>
@@ -128,9 +128,9 @@
 <p align='center'>
   <b> You are the visitor: </b> 
   <br>
-  <img align="center" src="https://profile-counter.glitch.me/{JVtristaoAC}/count.svg" />
+  <img align="center" src="https://profile-counter.glitch.me/{JVtristaoAC}/count.svg"/>
 </p>
 
 <a href="https://www.buymeacoffee.com/jvtristaoac"> 
-   <img align="left" src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/coffee.png" height="50" width="200" alt="jvtristaoac" />
+   <img align="left" src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/coffee.png" height="50" width="200" alt="jvtristaoac"/>
 </a>
