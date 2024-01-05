@@ -7,58 +7,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=61pr4gb1ittg11qkxsdxc72lc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-## While you are here play a Pokemon game, just calm down and wait the page refresh 🍷🗿 
-
-<div align="center">
- <img src="https://toy.aoaoao.me/image" width="49%"/>
- <br>
-    
- <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/JVtristaoAC">  
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/up.png" width="30"/>
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/blank.png" width="30"/>
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/blank.png" width="30"/>
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/blank.png" width="30"/>
- </a>
- 
- <br>
-    
- <a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/JVtristaoAC">
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/left.png" width="30"/>
- </a>
-    
- <a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/JVtristaoAC">
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/down.png" width="30"/>
- </a>
-    
- <a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/JVtristaoAC">
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/right.png" width="30"/>
- </a>
-    
- <a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/JVtristaoAC">
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/blank.png" width="30"/>
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/B.png" width="30"/>
- </a> 
-    
- <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/JVtristaoAC">
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/A.png" width="30"/>
- </a>
-    
- <br>
- <br>
- 
- <a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/JVtristaoAC">
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/select.png" height="30"/>
- </a> 
-    
- <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/JVtristaoAC">
-  <img src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/start.png" height="30"/>
- </a>
-    
- <br>
- <br>
-        
-</div>
-
 # My Activity
 <p align='center'>
  <img src='https://streak-stats.demolab.com?user=jvtristaoac&theme=merko&hide_border=false&mode=daily&card_width=500'/>                                                                                                               
