@@ -1,24 +1,24 @@
-# About me
-Hello Word! I am a enthusiastic programmer with a passion for crafting elegant solutions. 
-Proficient in languages like C#, Dart, PHP and JavaScript, I specialize in web development and mobile development.
+# Hello World! 👋
 
-## Wanna know what i am listening?
+I am an enthusiastic programmer with a passion for crafting elegant solutions. Proficient in languages like **C#**, **Dart**, **PHP**, and **JavaScript**, specialized in web development and mobile development. When I'm not immersed in lines of code, you'll likely find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee.
+
+## Wanna know what i am listening? 🎶
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=61pr4gb1ittg11qkxsdxc72lc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-# My Activity
+# My Activity 👨‍💻
 <p align='center'>
  <img src='https://streak-stats.demolab.com?user=jvtristaoac&theme=merko&hide_border=false&mode=daily&card_width=500'/>                                                                                                               
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&theme=merko&border_radius=10&card_width=500" height="200em"/>  
 </p>
 
-# Programming languages / Stacks
+# Programming languages / Stacks 🛠
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=cs,css,html,js,ts,php,py,java,dotnet,flutter,dart,nodejs,react,vue,next,tailwind,md,sass&perline=6"/>
 </p>
 
-# IDEs and Programs
+# IDEs and Programs 🐱‍💻
 
 <p align='center'>
   
