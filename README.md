@@ -1,7 +1,6 @@
 # About me
-- I am 18y and i am living in Brazil 😁
-- I like games, musics and all stuffs relatable with technology 👨‍💻
-- If you like this profile, starred and follow me ✨
+Hello Word! I am a enthusiastic programmer with a passion for crafting elegant solutions. 
+Proficient in languages like C#, Dart, PHP and JavaScript, I specialize in web development and mobile development.
 
 ## Wanna know what i am listening?
 
