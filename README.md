@@ -8,7 +8,7 @@ I am an enthusiastic programmer with a passion for crafting elegant solutions. P
 
 # My Activity 👨‍💻
 <p align='center'>
- <img src='https://streak-stats.demolab.com?user=jvtristaoac&theme=merko&hide_border=false&mode=daily&card_width=500'/>                                                                                                               
+ <img src="https://streak-stats.demolab.com?user=jvtristaoac&theme=merko&border_radius=10&card_width=500&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true"/> 
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&theme=merko&border_radius=10&card_width=500" height="200em"/>  
 </p>
 
