@@ -7,9 +7,11 @@ I am an enthusiastic programmer with a passion for crafting elegant solutions. S
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=61pr4gb1ittg11qkxsdxc72lc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 # My Activity 👨‍💻
-<p align='center'>
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVtristaoAC&layout=compact&langs_count=10&theme=merko&border_radius=10&card_width=500" height="200em"/>  
-</p>
+
+<kbd align="center">
+ <img src="https://streak-stats.demolab.com?user=jvtristaoac&theme=merko&card_width=1000&background=161b22&stroke=393f48&border=161b22"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvtristaoac&layout=donut&bg_color=161b22&border_color=393f48&theme=merko&card_width=950&langs_count=5"/>
+</kbd>
 
 # Programming languages / Stacks 🛠
 
