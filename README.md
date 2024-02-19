@@ -2,10 +2,6 @@
 
 I am an enthusiastic programmer with a passion for crafting elegant solutions. Specialized in web and mobile development. When I'm not immersed in lines of code, you'll likely find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee.
 
-## Wanna know what i am listening? 🎶
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=61pr4gb1ittg11qkxsdxc72lc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 # My Activity 👨‍💻
 
 <kbd align="center">
