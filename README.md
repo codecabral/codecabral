@@ -39,6 +39,10 @@ I am an enthusiastic programmer with a passion for crafting elegant solutions. S
   <img src="https://skillicons.dev/icons?i=androidstudio"/>
  </a>
  
+  <a href="https://store.unity.com/pt#plans-individual">
+  <img src="https://skillicons.dev/icons?i=godot" height="48"/>
+ </a>
+ 
  <br>
  
  <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
@@ -59,6 +63,10 @@ I am an enthusiastic programmer with a passion for crafting elegant solutions. S
  
  <a href="https://store.unity.com/pt#plans-individual">
   <img src="https://skillicons.dev/icons?i=unity" height="48"/>
+ </a>
+
+ <a href="https://store.unity.com/pt#plans-individual">
+  <img src="https://skillicons.dev/icons?i=rider" height="48"/>
  </a>
 
 </p>
