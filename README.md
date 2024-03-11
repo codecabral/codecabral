@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I am an enthusiastic programmer with a passion for crafting elegant solutions. Specialized in web and mobile development. When I'm not immersed in lines of code, you'll likely find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee.
+I am an enthusiastic programmer with a passion for crafting elegant solutions. Specialized in web and mobile development. When I'm not immersed in lines of code, you'll likely find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee ☕.
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvtristaoac&layout=donut&bg_color=161b22&border_color=393f48&theme=merko&card_width=950&langs_count=5"/>
