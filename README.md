@@ -1,6 +1,10 @@
 # Hello World! 👋
 
-I am an enthusiastic programmer with a passion for crafting elegant solutions. Specialized in web and mobile development. When I'm not immersed in lines of code, you'll likely find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee ☕.
+I am an enthusiastic programmer with a passion for crafting elegant solutions. Specialized in web and mobile development. When I'm not immersed in lines of code, you'll likely find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee while listening somethig like this: 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=61pr4gb1ittg11qkxsdxc72lc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+# My Activity 🦾
 
 <kbd align="center">
  <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=jvtristaoac&theme=merko&card_width=1000&background=161b22&stroke=393f48&border=161b22&exclude_days=Sun%2CSat"/>
