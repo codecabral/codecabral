@@ -16,7 +16,3 @@ I am an enthusiastic programmer with a passion for crafting elegant solutions. S
   <br>
   <img align="center" src="https://profile-counter.glitch.me/{JVtristaoAC}/count.svg"/>
 </p>
-
-<a href="https://www.buymeacoffee.com/jvtristaoac"> 
-   <img align="left" src="https://raw.githubusercontent.com/JVtristaoAC/JVtristaoAC/master/img/coffee.png" height="50" width="200" alt="jvtristaoac"/>
-</a>
