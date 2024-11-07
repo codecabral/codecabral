@@ -1,4 +1,4 @@
-# Hello World! 👋
+# Hello World! 👽
 
 I am an enthusiastic programmer with a passion for crafting elegant solutions. Specialized in web and mobile development. When I'm not immersed in lines of code, you'll likely find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee while listening somethig like this: 
 
