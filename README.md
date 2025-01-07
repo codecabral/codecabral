@@ -2,7 +2,7 @@
 
 I am an enthusiastic programmer with a passion for crafting elegant solutions. Specialized in web and mobile development. When I'm not immersed in lines of code, you'll likely find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee while listening somethig like this: 
 
-[![I am seeing an ad right now 🙁](https://spotify-github-profile.kittinanx.com/api/view?uid=61pr4gb1ittg11qkxsdxc72lc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/61pr4gb1ittg11qkxsdxc72lc?si=64c6024d20764599)
+[![I am listening an AD right now 🙁](https://spotify-github-profile.kittinanx.com/api/view?uid=61pr4gb1ittg11qkxsdxc72lc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/61pr4gb1ittg11qkxsdxc72lc?si=64c6024d20764599)
 
 # My Activity 🍃
 
